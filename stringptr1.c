@@ -6,7 +6,7 @@ int main()
     char *stptr = str1;
     char *rvptr = revstr;
     int i=-1;
-    printf("ishika\n");
+    printf("krishna sharma \n");
  	printf("Pointer : Print a string in reverse order :\n"); 	
     printf("Input a string : ");
     scanf("%s",str1);
