@@ -4,7 +4,7 @@
 int main()
 {
     char a[20], c;
-    printf("ishika\n");
+    printf("krishna sharma\n");
 
     puts("enter the string");
     gets(a);
